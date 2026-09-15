@@ -1,0 +1,15 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Excel lock and temporary files
+~$*.xlsx
+~$*.xlsm
+
+# Do not publish confidential, non-public or licensed source material
+data/raw/*
+!data/raw/README.md
+
+# Local working files
+work/
+*.tmp
