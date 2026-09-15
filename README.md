@@ -1,5 +1,8 @@
 # Indian Banking Benchmarking Dashboard
 
+[![Cheatsheet](screenshots/Cheatsheet.png)]
+
+
 A formula-driven FY2025 benchmarking model for 10 major Indian banks. The project compares profitability, operating efficiency, funding, asset quality, capital strength and growth using a consistent peer framework.
 
 ![Executive dashboard](screenshots/executive_dashboard.png)
